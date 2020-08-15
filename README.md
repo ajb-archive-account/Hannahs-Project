@@ -1,1 +1,1 @@
-Teaching my daughter (11) some website basics
+Teaching my daughter (11) some HTML & CSS basics
